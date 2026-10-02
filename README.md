@@ -1,4 +1,4 @@
-# 👋 Hey, I'm MURENGERANTWARI Elyse
+# 👋 Hey, I'm Elyse Dev
 
 <h3 align="center">🚀 Full-Stack Software Developer | Data Science Student | Cyber Security Learner</h3>
 
